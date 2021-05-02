@@ -1,5 +1,4 @@
 import { AppProps } from 'next/app'
-import { useRouter } from 'next/router'
 import { GlobalStyles } from 'components/GlobalStyles'
 import Head from 'next/head'
 
