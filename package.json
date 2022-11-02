@@ -1,5 +1,5 @@
 {
-  "name": "with-typescript-styled-components",
+  "name": "mm-next-starter",
   "version": "1.0.0",
   "scripts": {
     "dev": "next",
@@ -7,18 +7,18 @@
     "start": "next start"
   },
   "dependencies": {
-    "@emotion/react": "^11.10.0",
-    "@emotion/styled": "^11.10.0",
-    "framer-motion": "^7.0.0",
-    "next": "12.2.4",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "framer-motion": "^7.6.4",
+    "next": "13.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@types/node": "18.6.5",
-    "@types/react": "18.0.17",
-    "@types/react-dom": "18.0.6",
-    "typescript": "4.7.4"
+    "@types/node": "18.11.9",
+    "@types/react": "18.0.24",
+    "@types/react-dom": "18.0.8",
+    "typescript": "4.8.4"
   },
   "license": "MIT"
 }
